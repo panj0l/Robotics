@@ -1,2 +1,2 @@
 # Robotics
-Early introduction to robotics
+Robotics group assignments
